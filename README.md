@@ -41,3 +41,5 @@
 На других тоже должно работать.
 
 https://infostart.ru/public/754727/
+
+![2019-04-01_18-00-12](https://infostart.ru/upload/iblock/21f/21f19becc086c0cdd2d4c3ec35aed497.gif)
